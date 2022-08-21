@@ -1,9 +1,9 @@
-fn five() -> i8 {
-    -5
+fn main() {
+    let x = plus_one(-5);
+
+    println!("The value of x is: {x}");
 }
 
-fn main() {
-    let y = five();
-
-    println!("The value of y is: {y}");
+fn plus_one(x: u32) -> u32 {
+    x + 1
 }
