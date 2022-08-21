@@ -1,8 +1,9 @@
+fn five() -> i8 {
+    -5
+}
+
 fn main() {
-    let y = {
-        let x = 3;
-        x + 1
-    };
+    let y = five();
 
     println!("The value of y is: {y}");
 }
