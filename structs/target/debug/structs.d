@@ -1,1 +1,1 @@
-C:\Users\Victor\ Nogueira\study\rust\rust-studies\structs\target\debug\structs.exe: C:\Users\Victor\ Nogueira\study\rust\rust-studies\structs\src\main.rs
+/home/p51901224/studies/rust/rust-studies/structs/target/debug/structs: /home/p51901224/studies/rust/rust-studies/structs/src/main.rs
